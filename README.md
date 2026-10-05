@@ -31,7 +31,6 @@ Follow these step-by-step instructions to set up and run the project in your loc
 Clone the repository to your local machine and navigate into the project directory:
 ```bash
 git clone [https://github.com/Zunair-01/coffee-shop-web.git](https://github.com/Zunair-01/coffee-shop-web.git)
-cd coffee-shop-web
 
 ```
 
